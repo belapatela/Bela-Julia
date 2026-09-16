@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+TheParrots
 
 ## Members
 
-- _nobody has signed on yet_
+- julia
