@@ -1,8 +1,8 @@
 /// Your crew's name. Both of you are going to change this line.
-const CREW_NAME: &str = "the unnamed crew";
+const CREW_NAME: &str = "TheDataBots";
 
 /// Your crew's motto. You will both change this one too, earlier and separately.
-const MOTTO: &str = "we have not agreed on a motto";
+const MOTTO: &str = "LiveLaughLovePython";
 
 fn main() {
     println!("=== {} ===", CREW_NAME);
